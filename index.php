@@ -1,2 +1,2 @@
 <?php
-print "hola mundo1";
+print "mundomundomundomundo";
